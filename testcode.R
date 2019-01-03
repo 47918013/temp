@@ -5,5 +5,5 @@ hist(a)
 b<-13+0.5*a#adding a note here
 <<<<<<< HEAD
 #and here
-
+#and here!
 
